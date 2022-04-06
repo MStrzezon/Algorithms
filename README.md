@@ -16,7 +16,6 @@
 - [x] countingsort2
 7. Quicksort
 8. Binary_Search
-TODO:
 ## Data structures:
 1. Queue
 2. Priority Queue
